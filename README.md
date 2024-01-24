@@ -1,0 +1,1 @@
+A C++ utility for enhancing data integrity. This tool adds checksums to unsigned integers to protect against data corruption. It includes functions to add checksums to individual numbers and arrays, verify the validity of checksums, and remove checksums from numbers. Ideal for applications requiring basic error detection and correction in numerical data processing.
